@@ -9,9 +9,10 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 
+
 /**
  *
- * @author kevin
+ * @author kevin Barrantes
  */
 public class Servidor extends javax.swing.JFrame {
 
